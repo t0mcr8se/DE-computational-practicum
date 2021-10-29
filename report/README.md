@@ -69,3 +69,6 @@ Also we can see that the Runge-Kutta methods has the smallest error and the Eule
 ![GTE](assets/gui3.png)
 
 We can see here that if we increase the steps, the value of GTE decreases.
+
+### UML Diagram
+![UML](assets/uml.png)
